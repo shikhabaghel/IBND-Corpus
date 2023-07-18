@@ -13,12 +13,12 @@ More details of the corpus can be found in the paper (Link to the paper will be 
 
 
 # Audio Specifications
-Sampling Rate: 16 kHz
-Number of channels: 1
+- Sampling Rate: 16 kHz
+- Number of channels: 1
 
 # Audio Features Specifications
-Frame size: 25 ms
-Frame shift: 10 ms
+- Frame size: 25 ms
+- Frame shift: 10 ms
 
 # Corpus Directory Structure
 Directory structure of the corpus is as follows:
