@@ -16,7 +16,7 @@ More details of the corpus can be found in the paper (Link to the paper will be 
 Sampling Rate: 16 kHz
 Number of channels: 1
 
-# Audio Features Description
+# Audio Features Specifications
 Frame size: 25 ms
 Frame shift: 10 ms
 
@@ -31,27 +31,27 @@ Every debate folder contains two sub-folders, i.e., "features" and "labels". The
 
 - Discrete Cosine Transform of Integrated Linear Prediction Residual (dctilpr)
 - Mel-Power Difference of Spectrum in Sub-bands (mpdss)
-3- Residual Mel-Frequency Cepstral Coefficient (rmfcc)
-4- Log Spectrogram (logSpec)
-5- Log Spectrogram of Integrated Linear Prediction Residual (logSpecILPR)
-6- Instantaneous Frequency Cosine Coefficient (ifcc)
-7- Modified Group Delay Cepstral Coefficient (mgdcc) 
-8- Mel-Frequency Cepstral Coefficient extracted from pre-emphasized speech (mfcc_preemphasizedSpeech)
-9- Mel-Frequency Cepstral Coefficient extracted from raw speech (mfcc_without_preemphasizedSpeech)
+- Residual Mel-Frequency Cepstral Coefficient (rmfcc)
+- Log Spectrogram (logSpec)
+- Log Spectrogram of Integrated Linear Prediction Residual (logSpecILPR)
+- Instantaneous Frequency Cosine Coefficient (ifcc)
+- Modified Group Delay Cepstral Coefficient (mgdcc) 
+- Mel-Frequency Cepstral Coefficient extracted from pre-emphasized speech (mfcc_preemphasizedSpeech)
+- Mel-Frequency Cepstral Coefficient extracted from raw speech (mfcc_without_preemphasizedSpeech)
 
 Details of these features can be found in the following papers:
 
-For features 1, 2, 3 and 8: Shikha Baghel, S. R. Mahadeva Prasanna, Prithwijit Guha; Exploration of excitation source information for shouted and normal speech classification. J Acoust Soc Am 1 February 2020; 147 (2): 1250–1261. https://doi.org/10.1121/10.0000757
+For dctilpr, mpdss, rmfcc and mfcc_preemphasizedSpeech features: Shikha Baghel, S. R. Mahadeva Prasanna, Prithwijit Guha; Exploration of excitation source information for shouted and normal speech classification. J Acoust Soc Am 1 February 2020; 147 (2): 1250–1261. https://doi.org/10.1121/10.0000757
 
-For features 4 and 5: Baghel, S., Bhattacharjee, M., Prasanna, S.R.M., Guha, P. (2021) Automatic Detection of Shouted Speech Segments in Indian News Debates. Proc. Interspeech 2021, 4179-4183, doi: https://www.isca-speech.org/archive/interspeech_2021/baghel21_interspeech.html
+For logSpec and logSpecILPR features: Baghel, S., Bhattacharjee, M., Prasanna, S.R.M., Guha, P. (2021) Automatic Detection of Shouted Speech Segments in Indian News Debates. Proc. Interspeech 2021, 4179-4183, doi: https://www.isca-speech.org/archive/interspeech_2021/baghel21_interspeech.html
 
-For features 6, 7 and 9: Shikha Baghel, S. R. Mahadeva Prasanna, Prithwijit Guha; Overlapped speech detection using phase features. J Acoust Soc Am 1 October 2021; 150 (4): 2770–2781. https://doi.org/10.1121/10.0006614 
+For ifcc, mgdcc and mfcc_without_preemphasizedSpeech features: Shikha Baghel, S. R. Mahadeva Prasanna, Prithwijit Guha; Overlapped speech detection using phase features. J Acoust Soc Am 1 October 2021; 150 (4): 2770–2781. https://doi.org/10.1121/10.0006614 
 
 
  The "labels" folder contains three sub-folders:
- 1- Shout_info: contains shouted vs. normal speech annotations. Shout label is denoted by 1 and 0 label is used for normal speech. 
- 2- Overlap_info: contains overlapped vs. single speaker's speech annotations. Overlap label is denoted by 1 and 0 label is used for  single speaker's speech. 
- 3- Cmp_info: contains competitive speech vs. others annotations. competitive label is denoted by 1 and 0 label is used for "others" class. Here, "others" class comprises non-competitive speech and single speaker's speech.
+ - Shout_info: contains shouted vs. normal speech annotations. Shout label is denoted by 1 and 0 label is used for normal speech. 
+ - Overlap_info: contains overlapped vs. single speaker's speech annotations. Overlap label is denoted by 1 and 0 label is used for  single speaker's speech. 
+ - Cmp_info: contains competitive speech vs. others annotations. competitive label is denoted by 1 and 0 label is used for "others" class. Here, "others" class comprises non-competitive speech and single speaker's speech.
 
 
  Feel free to reach out to me (shikhabaghel@iisc.ac.in or shikhabaghel1990@gmail.com) for further information.
