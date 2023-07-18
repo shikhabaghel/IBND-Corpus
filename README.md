@@ -29,8 +29,8 @@ Here, TVChannel_1 and TVChannel_2 are the source channels of TV debates. Notatio
 
 Every debate folder contains two sub-folders, i.e., "features" and "labels". The "features" folder contains 9 different speech features extracted from IBND corpus for each 25 ms frame with a shift of 10 ms. These feaures are:
 
--Discrete Cosine Transform of Integrated Linear Prediction Residual (dctilpr)
--Mel-Power Difference of Spectrum in Sub-bands (mpdss)
+- Discrete Cosine Transform of Integrated Linear Prediction Residual (dctilpr)
+- Mel-Power Difference of Spectrum in Sub-bands (mpdss)
 3- Residual Mel-Frequency Cepstral Coefficient (rmfcc)
 4- Log Spectrogram (logSpec)
 5- Log Spectrogram of Integrated Linear Prediction Residual (logSpecILPR)
