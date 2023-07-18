@@ -25,63 +25,36 @@ Directory structure of the corpus is as follows:
 
 <div align="left"><img src="IBND_corpus_directory_structure.png" width="550"/></div>
 
+Here, TVChannel_1 and TVChannel_2 are the source channels of TV debates. Notation ch1s1 denotes show-1 (s1) of channel-1 (ch1) and ch1s1d1 represents debate-1 (d1) obtained from show-1 (s1) of channel-1 (ch1). Similar notations are used in the directory structure.   
+
+Every debate folder contains two sub-folders, i.e., "features" and "labels". The "features" folder contains 9 different speech features extracted from IBND corpus for each 25 ms frame with a shift of 10 ms. These feaures are:
+
+1- Discrete Cosine Transform of Integrated Linear Prediction Residual (dctilpr)
+2- Mel-Power Difference of Spectrum in Sub-bands (mpdss)
+3- Residual Mel-Frequency Cepstral Coefficient (rmfcc)
+4- Log Spectrogram (logSpec)
+5- Log Spectrogram of Integrated Linear Prediction Residual (logSpecILPR)
+6- Instantaneous Frequency Cosine Coefficient (ifcc)
+7- Modified Group Delay Cepstral Coefficient (mgdcc) 
+8- Mel-Frequency Cepstral Coefficient extracted from pre-emphasized speech (mfcc_preemphasizedSpeech)
+9- Mel-Frequency Cepstral Coefficient extracted from raw speech (mfcc_without_preemphasizedSpeech)
+
+Details of these features can be found in the following papers:
+
+For features 1, 2, 3 and 8: Shikha Baghel, S. R. Mahadeva Prasanna, Prithwijit Guha; Exploration of excitation source information for shouted and normal speech classification. J Acoust Soc Am 1 February 2020; 147 (2): 1250–1261. https://doi.org/10.1121/10.0000757
+
+For features 4 and 5: Baghel, S., Bhattacharjee, M., Prasanna, S.R.M., Guha, P. (2021) Automatic Detection of Shouted Speech Segments in Indian News Debates. Proc. Interspeech 2021, 4179-4183, doi: 10.21437/Interspeech.2021-1592
+
+For features 6, 7 and 9: Shikha Baghel, S. R. Mahadeva Prasanna, Prithwijit Guha; Overlapped speech detection using phase features. J Acoust Soc Am 1 October 2021; 150 (4): 2770–2781. https://doi.org/10.1121/10.0006614 
 
 
-IBND_Corpus
-          |----------> TVChannel_1
-          |                    |------> ch1s1
-          |                    |           |------> ch1s1d1
-          |                    |                          |------> fetures
-          |                    |                          |------> labels
-          |                    |            |------> ch1s1d2
-          |                    |                          |------> fetures
-          |                    |                          |------> labels          
-          |                    |                .
-          |                    |                .
-          |                    |                .
-          |                    |------> ch1s2
-          |                    |            |------> ch1s2d1
-          |                    |                          |------> fetures
-          |                    |                          |------> labels    
-          |                    |            |------> ch1s2d2
-          |                    |                          |------> fetures
-          |                    |                          |------> labels    
-          |                    |                .
-          |                    |                .
-          |                    |                .          
-          |                    |------> ch1s3
-          |                              .
-          |                              .
-          |                              .          
-          |
-          |
-          |----------> TVChannel_2
-                               |------> ch2s1
-                               |           |------> ch2s1d1
-                               |                          |------> fetures
-                               |                          |------> labels
-                               |            |------> ch2s1d2
-                               |                          |------> fetures
-                               |                          |------> labels          
-                               |                .
-                               |                .
-                               |                .
-                               |------> ch2s2
-                                            |------> ch2s2d1
-                                                          |------> fetures
-                                                          |------> labels    
-                                            |------> ch2s2d2
-                                                          |------> fetures
-                                                          |------> labels 
-                                                .
-                                                .
-                                                .                                                          
+ The "labels" folder contains three sub-folders:
+ 1- Shout_info: contains shouted vs. normal speech annotations. Shout label is denoted by 1 and 0 label is used for normal speech. 
+ 2- Overlap_info: contains overlapped vs. single speaker's speech annotations. Overlap label is denoted by 1 and 0 label is used for  single speaker's speech. 
+ 3- Cmp_info: contains competitive speech vs. others annotations. competitive label is denoted by 1 and 0 label is used for "others" class. Here, "others" class comprises non-competitive speech and single speaker's speech.
 
 
+ Feel free to reach out to me (shikhabaghel@iisc.ac.in or shikhabaghel1990@gmail.com) for further information.
 
-
-
-
-
-          
+                                                .                                                              
 
