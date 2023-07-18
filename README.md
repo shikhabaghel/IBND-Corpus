@@ -23,6 +23,7 @@ Frame shift: 10 ms
 # Corpus Directory Structure
 Directory structure of the corpus is as follows:
 
+<div align="left"><img src="IBND_corpus_directory_structure.png" width="550"/></div>
 
 
 
