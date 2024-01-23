@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 600 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 536.0635052386173 
+            text = "misc" 
+        intervals [2]:
+            xmin = 536.0635052386173 
+            xmax = 558.7466042793594 
+            text = "nor" 
+        intervals [3]:
+            xmin = 558.7466042793594 
+            xmax = 584.2689159227302 
+            text = "sh" 
+        intervals [4]:
+            xmin = 584.2689159227302 
+            xmax = 587.4674087607851 
+            text = "misc" 
+        intervals [5]:
+            xmin = 587.4674087607851 
+            xmax = 600 
+            text = "nor" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 536.0674980657943 
+            text = "misc" 
+        intervals [2]:
+            xmin = 536.0674980657943 
+            xmax = 584.2689159227302 
+            text = "sing" 
+        intervals [3]:
+            xmin = 584.2689159227302 
+            xmax = 587.4674087607851 
+            text = "misc" 
+        intervals [4]:
+            xmin = 587.4674087607851 
+            xmax = 600 
+            text = "sing" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 536.0674980657943 
+            text = "misc" 
+        intervals [2]:
+            xmin = 536.0674980657943 
+            xmax = 584.2689159227302 
+            text = "sing" 
+        intervals [3]:
+            xmin = 584.2689159227302 
+            xmax = 587.4674087607851 
+            text = "misc" 
+        intervals [4]:
+            xmin = 587.4674087607851 
+            xmax = 600 
+            text = "sing" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 536.0674980657943 
+            text = "misc" 
+        intervals [2]:
+            xmin = 536.0674980657943 
+            xmax = 584.2689159227302 
+            text = "sing" 
+        intervals [3]:
+            xmin = 584.2689159227302 
+            xmax = 587.4674087607851 
+            text = "misc" 
+        intervals [4]:
+            xmin = 587.4674087607851 
+            xmax = 600 
+            text = "sing" 

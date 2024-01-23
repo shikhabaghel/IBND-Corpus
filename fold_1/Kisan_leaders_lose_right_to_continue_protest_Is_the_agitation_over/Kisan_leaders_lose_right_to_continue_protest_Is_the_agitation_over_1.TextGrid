@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 600 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 301.50799719059034 
+            text = "misc" 
+        intervals [2]:
+            xmin = 301.50799719059034 
+            xmax = 481.10707383078733 
+            text = "nor" 
+        intervals [3]:
+            xmin = 481.10707383078733 
+            xmax = 600 
+            text = "misc" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 301.50799719059034 
+            text = "misc" 
+        intervals [2]:
+            xmin = 301.50799719059034 
+            xmax = 348.08173636021127 
+            text = "sing" 
+        intervals [3]:
+            xmin = 348.08173636021127 
+            xmax = 348.5752181123683 
+            text = "ovrlp" 
+        intervals [4]:
+            xmin = 348.5752181123683 
+            xmax = 481.1001943701697 
+            text = "sing" 
+        intervals [5]:
+            xmin = 481.1001943701697 
+            xmax = 600 
+            text = "misc" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 301.50799719059034 
+            text = "misc" 
+        intervals [2]:
+            xmin = 301.50799719059034 
+            xmax = 348.08173636021127 
+            text = "sing" 
+        intervals [3]:
+            xmin = 348.08173636021127 
+            xmax = 348.5752181123683 
+            text = "coop" 
+        intervals [4]:
+            xmin = 348.5752181123683 
+            xmax = 481.1001943701697 
+            text = "sing" 
+        intervals [5]:
+            xmin = 481.1001943701697 
+            xmax = 600 
+            text = "misc" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 301.50799719059034 
+            text = "misc" 
+        intervals [2]:
+            xmin = 301.50799719059034 
+            xmax = 348.08173636021127 
+            text = "sing" 
+        intervals [3]:
+            xmin = 348.08173636021127 
+            xmax = 348.5752181123683 
+            text = "coop" 
+        intervals [4]:
+            xmin = 348.5752181123683 
+            xmax = 481.1001943701697 
+            text = "sing" 
+        intervals [5]:
+            xmin = 481.1001943701697 
+            xmax = 600 
+            text = "misc" 
