@@ -54,7 +54,7 @@ For ifcc, mgdcc and mfcc_without_preemphasizedSpeech features: Shikha Baghel, S.
  - Cmp_info: contains competitive speech vs. others annotations. competitive label is denoted by 1 and 0 label is used for "others" class. Here, "others" class comprises non-competitive speech and single speaker's speech.
 
 
- Feel free to reach out to me (shikhabaghel@iisc.ac.in or shikhabaghel1990@gmail.com) for further information.
+ Feel free to reach out to me (shikhabaghel@nitk.edu.in or shikhabaghel1990@gmail.com) for further information.
 
                                                 .                                                              
 
