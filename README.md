@@ -7,7 +7,7 @@ the final annotations indicate that there is significant presence of shouted, ov
 
 Due to copyright issues, sharing the audio data from the IBND corpus is not possible. However, you can access details of the debates, such as their names, durations, and YouTube links, in the "IBND_Dataset_Details.csv" file. To download the audio data of the IBND corpus, use the "downloader.py" script using the following command:
 
-python downloader.py <outputPath> <SegmentDuration_min>
+python downloader.py <output_Path> <SegmentDuration_min>
 
 Ensure that the value for <SegmentDuration_min> is set to 10, as annotations are provided for each 10-minute non-overlapping segment. Please be aware that some of the links may no longer be active.
 
