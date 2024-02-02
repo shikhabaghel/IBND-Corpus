@@ -9,7 +9,8 @@ Due to copyright issues, sharing the audio data from the IBND corpus is not poss
 
 python downloader.py <output_Path> <SegmentDuration_min>
 
-Ensure that the value for <SegmentDuration_min> is set to 10, as annotations are provided for each 10-minute non-overlapping segment. Please be aware that some of the links may no longer be active.
+Ensure that the value for <SegmentDuration_min> is set to 10, as annotations are provided for each 10-minute non-overlapping segment. Please be aware that some of the links may no longer be active. 
+The annotation files, provided in the "*.Textgrid" format, contain ground truth labels for shouted-normal speech (Tier-1), overlapped-single speaker's speech (Tier-2), and competitive-non-competitive speech (Tier-3). These annotation files can be found within the "IBND_Annotations" directory.
 
 In addition, different speech features extracted from IBND corpus along with annotations are available at the following Zenodo link
 
