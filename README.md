@@ -5,7 +5,13 @@ The Indian Broadcast News Debate (IBND) corpus is created by collecting news deb
 procedure of shouted and overlapped speech. Multiple annotators annotated each audio interval to minimize subjective bias. The statistics generated from
 the final annotations indicate that there is significant presence of shouted, overlapped, and competitive speech in the IBND corpus. 
 
-Audio data of the IBND corpus can not be shared due to copy right issues. However, different speech features extracted from IBND corpus along with annotations are available at the following Zenodo link
+Due to copyright issues, sharing the audio data from the IBND corpus is not possible. However, you can access details of the debates, such as their names, durations, and YouTube links, in the "IBND_Dataset_Details.csv" file. To download the audio data of the IBND corpus, use the "downloader.py" script using the following command:
+
+python downloader.py <outputPath> <SegmentDuration_min>
+
+Ensure that the value for <SegmentDuration_min> is set to 10, as annotations are provided for each 10-minute non-overlapping segment. Please be aware that some of the links may no longer be active.
+
+In addition, different speech features extracted from IBND corpus along with annotations are available at the following Zenodo link
 
 Zenodo Link: https://doi.org/10.5281/zenodo.8161172
 
