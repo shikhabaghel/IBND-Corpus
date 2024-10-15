@@ -1,0 +1,1276 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 600 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 44 
+        intervals [1]:
+            xmin = 0 
+            xmax = 28.8575277837426 
+            text = "nor" 
+        intervals [2]:
+            xmin = 28.8575277837426 
+            xmax = 35.86540773270211 
+            text = "nor-d" 
+        intervals [3]:
+            xmin = 35.86540773270211 
+            xmax = 40.540338947368426 
+            text = "misc" 
+        intervals [4]:
+            xmin = 40.540338947368426 
+            xmax = 64.771996262424 
+            text = "nor" 
+        intervals [5]:
+            xmin = 64.771996262424 
+            xmax = 66.05139339764594 
+            text = "misc" 
+        intervals [6]:
+            xmin = 66.05139339764594 
+            xmax = 76.31659031763282 
+            text = "nor" 
+        intervals [7]:
+            xmin = 76.31659031763282 
+            xmax = 76.5724697446772 
+            text = "misc" 
+        intervals [8]:
+            xmin = 76.5724697446772 
+            xmax = 113.66191793480908 
+            text = "sh" 
+        intervals [9]:
+            xmin = 113.66191793480908 
+            xmax = 124.99372113248927 
+            text = "nor-d" 
+        intervals [10]:
+            xmin = 124.99372113248927 
+            xmax = 150.81747157894736 
+            text = "sh" 
+        intervals [11]:
+            xmin = 150.81747157894736 
+            xmax = 152.34949646454828 
+            text = "misc" 
+        intervals [12]:
+            xmin = 152.34949646454828 
+            xmax = 183.8386372997163 
+            text = "nor" 
+        intervals [13]:
+            xmin = 183.8386372997163 
+            xmax = 265.04044195664113 
+            text = "sh" 
+        intervals [14]:
+            xmin = 265.04044195664113 
+            xmax = 266.22845358220434 
+            text = "nor" 
+        intervals [15]:
+            xmin = 266.22845358220434 
+            xmax = 268.22065769276423 
+            text = "sh" 
+        intervals [16]:
+            xmin = 268.22065769276423 
+            xmax = 277.579277934763 
+            text = "nor" 
+        intervals [17]:
+            xmin = 277.579277934763 
+            xmax = 287.2127987586845 
+            text = "sh" 
+        intervals [18]:
+            xmin = 287.2127987586845 
+            xmax = 288.25459356879384 
+            text = "nor" 
+        intervals [19]:
+            xmin = 288.25459356879384 
+            xmax = 292.56798962468497 
+            text = "sh" 
+        intervals [20]:
+            xmin = 292.56798962468497 
+            xmax = 293.4635676193403 
+            text = "nor" 
+        intervals [21]:
+            xmin = 293.4635676193403 
+            xmax = 305.025694723534 
+            text = "sh" 
+        intervals [22]:
+            xmin = 305.025694723534 
+            xmax = 305.7567788008037 
+            text = "nor" 
+        intervals [23]:
+            xmin = 305.7567788008037 
+            xmax = 326.2003250831823 
+            text = "sh" 
+        intervals [24]:
+            xmin = 326.2003250831823 
+            xmax = 348.4234835466521 
+            text = "nor" 
+        intervals [25]:
+            xmin = 348.4234835466521 
+            xmax = 354.03455383969697 
+            text = "nor" 
+        intervals [26]:
+            xmin = 354.03455383969697 
+            xmax = 358.85743977364496 
+            text = "sh-d" 
+        intervals [27]:
+            xmin = 358.85743977364496 
+            xmax = 382.2851631134647 
+            text = "sh" 
+        intervals [28]:
+            xmin = 382.2851631134647 
+            xmax = 384.953619995499 
+            text = "nor" 
+        intervals [29]:
+            xmin = 384.953619995499 
+            xmax = 402.0236523296078 
+            text = "sh" 
+        intervals [30]:
+            xmin = 402.0236523296078 
+            xmax = 427.38021769495145 
+            text = "nor" 
+        intervals [31]:
+            xmin = 427.38021769495145 
+            xmax = 452.1616989383618 
+            text = "nor-d" 
+        intervals [32]:
+            xmin = 452.1616989383618 
+            xmax = 457.27451378193405 
+            text = "sh" 
+        intervals [33]:
+            xmin = 457.27451378193405 
+            xmax = 463.24384769501484 
+            text = "nor" 
+        intervals [34]:
+            xmin = 463.24384769501484 
+            xmax = 464.24908830126066 
+            text = "sh" 
+        intervals [35]:
+            xmin = 464.24908830126066 
+            xmax = 469.26202367312504 
+            text = "nor" 
+        intervals [36]:
+            xmin = 469.26202367312504 
+            xmax = 535.6709195735581 
+            text = "sh" 
+        intervals [37]:
+            xmin = 535.6709195735581 
+            xmax = 537.7570139150603 
+            text = "nor" 
+        intervals [38]:
+            xmin = 537.7570139150603 
+            xmax = 540.2399224940503 
+            text = "sh" 
+        intervals [39]:
+            xmin = 540.2399224940503 
+            xmax = 541.117223386774 
+            text = "nor" 
+        intervals [40]:
+            xmin = 541.117223386774 
+            xmax = 553.6365299023222 
+            text = "sh" 
+        intervals [41]:
+            xmin = 553.6365299023222 
+            xmax = 554.5503849989093 
+            text = "nor" 
+        intervals [42]:
+            xmin = 554.5503849989093 
+            xmax = 583.7937112725049 
+            text = "sh" 
+        intervals [43]:
+            xmin = 583.7937112725049 
+            xmax = 588.4360951631675 
+            text = "nor-d" 
+        intervals [44]:
+            xmin = 588.4360951631675 
+            xmax = 600 
+            text = "sh" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 102 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4463810526315789 
+            text = "sing" 
+        intervals [2]:
+            xmin = 0.4463810526315789 
+            xmax = 1.8913073684210528 
+            text = "ovrlp" 
+        intervals [3]:
+            xmin = 1.8913073684210528 
+            xmax = 35.86540773270211 
+            text = "sing" 
+        intervals [4]:
+            xmin = 35.86540773270211 
+            xmax = 40.532838836200426 
+            text = "misc" 
+        intervals [5]:
+            xmin = 40.532838836200426 
+            xmax = 53.7862056408053 
+            text = "sing" 
+        intervals [6]:
+            xmin = 53.7862056408053 
+            xmax = 54.04208506784969 
+            text = "ovrlp" 
+        intervals [7]:
+            xmin = 54.04208506784969 
+            xmax = 64.76522615152014 
+            text = "sing" 
+        intervals [8]:
+            xmin = 64.76522615152014 
+            xmax = 66.06290038867382 
+            text = "misc" 
+        intervals [9]:
+            xmin = 66.06290038867382 
+            xmax = 76.31659031763282 
+            text = "sing" 
+        intervals [10]:
+            xmin = 76.31659031763282 
+            xmax = 76.5724697446772 
+            text = "misc" 
+        intervals [11]:
+            xmin = 76.5724697446772 
+            xmax = 108.70232576284637 
+            text = "sing" 
+        intervals [12]:
+            xmin = 108.70232576284637 
+            xmax = 113.6554203863485 
+            text = "ovrlp" 
+        intervals [13]:
+            xmin = 113.6554203863485 
+            xmax = 114.35394308693171 
+            text = "sing" 
+        intervals [14]:
+            xmin = 114.35394308693171 
+            xmax = 115.06675006226966 
+            text = "ovrlp" 
+        intervals [15]:
+            xmin = 115.06675006226966 
+            xmax = 117.88142375975795 
+            text = "sing" 
+        intervals [16]:
+            xmin = 117.88142375975795 
+            xmax = 118.39318261384673 
+            text = "ovrlp" 
+        intervals [17]:
+            xmin = 118.39318261384673 
+            xmax = 135.25441691760386 
+            text = "sing" 
+        intervals [18]:
+            xmin = 135.25441691760386 
+            xmax = 135.72962156782916 
+            text = "ovrlp" 
+        intervals [19]:
+            xmin = 135.72962156782916 
+            xmax = 150.81421990228193 
+            text = "sing" 
+        intervals [20]:
+            xmin = 150.81421990228193 
+            xmax = 152.34949646454828 
+            text = "misc" 
+        intervals [21]:
+            xmin = 152.34949646454828 
+            xmax = 184.6623592472865 
+            text = "sing" 
+        intervals [22]:
+            xmin = 184.6623592472865 
+            xmax = 186.6911175617099 
+            text = "ovrlp" 
+        intervals [23]:
+            xmin = 186.6911175617099 
+            xmax = 187.78774367761443 
+            text = "sing" 
+        intervals [24]:
+            xmin = 187.78774367761443 
+            xmax = 190.0358272152187 
+            text = "ovrlp" 
+        intervals [25]:
+            xmin = 190.0358272152187 
+            xmax = 220.74883580720447 
+            text = "sing" 
+        intervals [26]:
+            xmin = 220.74883580720447 
+            xmax = 222.84592883203933 
+            text = "ovrlp" 
+        intervals [27]:
+            xmin = 222.84592883203933 
+            xmax = 251.53820158114746 
+            text = "sing" 
+        intervals [28]:
+            xmin = 251.53820158114746 
+            xmax = 253.61302467687358 
+            text = "ovrlp" 
+        intervals [29]:
+            xmin = 253.61302467687358 
+            xmax = 261.7080201642985 
+            text = "sing" 
+        intervals [30]:
+            xmin = 261.7080201642985 
+            xmax = 262.3659958338412 
+            text = "ovrlp" 
+        intervals [31]:
+            xmin = 262.3659958338412 
+            xmax = 263.5905616632679 
+            text = "sing" 
+        intervals [32]:
+            xmin = 263.5905616632679 
+            xmax = 264.24853733281066 
+            text = "ovrlp" 
+        intervals [33]:
+            xmin = 264.24853733281066 
+            xmax = 266.38144050856226 
+            text = "sing" 
+        intervals [34]:
+            xmin = 266.38144050856226 
+            xmax = 267.6798587986628 
+            text = "ovrlp" 
+        intervals [35]:
+            xmin = 267.6798587986628 
+            xmax = 277.579277934763 
+            text = "sing" 
+        intervals [36]:
+            xmin = 277.579277934763 
+            xmax = 278.0910367888518 
+            text = "ovrlp" 
+        intervals [37]:
+            xmin = 278.0910367888518 
+            xmax = 278.5296872352136 
+            text = "sing" 
+        intervals [38]:
+            xmin = 278.5296872352136 
+            xmax = 279.26077131248326 
+            text = "ovrlp" 
+        intervals [39]:
+            xmin = 279.26077131248326 
+            xmax = 279.7542530646403 
+            text = "sing" 
+        intervals [40]:
+            xmin = 279.7542530646403 
+            xmax = 280.3939516322513 
+            text = "ovrlp" 
+        intervals [41]:
+            xmin = 280.3939516322513 
+            xmax = 280.97881889406705 
+            text = "sing" 
+        intervals [42]:
+            xmin = 280.97881889406705 
+            xmax = 281.5271319520193 
+            text = "ovrlp" 
+        intervals [43]:
+            xmin = 281.5271319520193 
+            xmax = 282.31253902738916 
+            text = "sing" 
+        intervals [44]:
+            xmin = 282.31253902738916 
+            xmax = 284.14024922056336 
+            text = "ovrlp" 
+        intervals [45]:
+            xmin = 284.14024922056336 
+            xmax = 285.0723814190822 
+            text = "sing" 
+        intervals [46]:
+            xmin = 285.0723814190822 
+            xmax = 285.7120799866932 
+            text = "ovrlp" 
+        intervals [47]:
+            xmin = 285.7120799866932 
+            xmax = 288.17948874747833 
+            text = "sing" 
+        intervals [48]:
+            xmin = 288.17948874747833 
+            xmax = 289.05678964020194 
+            text = "ovrlp" 
+        intervals [49]:
+            xmin = 289.05678964020194 
+            xmax = 289.69648820781293 
+            text = "sing" 
+        intervals [50]:
+            xmin = 289.69648820781293 
+            xmax = 291.1481291695229 
+            text = "ovrlp" 
+        intervals [51]:
+            xmin = 291.1481291695229 
+            xmax = 293.4510440129224 
+            text = "sing" 
+        intervals [52]:
+            xmin = 293.4510440129224 
+            xmax = 296.10122379302504 
+            text = "ovrlp" 
+        intervals [53]:
+            xmin = 296.10122379302504 
+            xmax = 297.28923541858825 
+            text = "sing" 
+        intervals [54]:
+            xmin = 297.28923541858825 
+            xmax = 301.4231092293923 
+            text = "ovrlp" 
+        intervals [55]:
+            xmin = 301.4231092293923 
+            xmax = 301.84348257382237 
+            text = "sing" 
+        intervals [56]:
+            xmin = 301.84348257382237 
+            xmax = 305.0244423628922 
+            text = "ovrlp" 
+        intervals [57]:
+            xmin = 305.0244423628922 
+            xmax = 305.7738035420937 
+            text = "sing" 
+        intervals [58]:
+            xmin = 305.7738035420937 
+            xmax = 306.9252609637934 
+            text = "ovrlp" 
+        intervals [59]:
+            xmin = 306.9252609637934 
+            xmax = 358.8471851432591 
+            text = "sing" 
+        intervals [60]:
+            xmin = 358.8471851432591 
+            xmax = 363.40969051529066 
+            text = "ovrlp" 
+        intervals [61]:
+            xmin = 363.40969051529066 
+            xmax = 364.06766618483334 
+            text = "sing" 
+        intervals [62]:
+            xmin = 364.06766618483334 
+            xmax = 368.3810622407245 
+            text = "ovrlp" 
+        intervals [63]:
+            xmin = 368.3810622407245 
+            xmax = 370.99167478798506 
+            text = "sing" 
+        intervals [64]:
+            xmin = 370.99167478798506 
+            xmax = 374.81158909171916 
+            text = "ovrlp" 
+        intervals [65]:
+            xmin = 374.81158909171916 
+            xmax = 378.02835903170575 
+            text = "sing" 
+        intervals [66]:
+            xmin = 378.02835903170575 
+            xmax = 381.2724083433683 
+            text = "ovrlp" 
+        intervals [67]:
+            xmin = 381.2724083433683 
+            xmax = 382.00349242063794 
+            text = "sing" 
+        intervals [68]:
+            xmin = 382.00349242063794 
+            xmax = 382.3142031534776 
+            text = "ovrlp" 
+        intervals [69]:
+            xmin = 382.3142031534776 
+            xmax = 384.9461058316484 
+            text = "sing" 
+        intervals [70]:
+            xmin = 384.9461058316484 
+            xmax = 388.9853453585634 
+            text = "ovrlp" 
+        intervals [71]:
+            xmin = 388.9853453585634 
+            xmax = 450.9348641329033 
+            text = "sing" 
+        intervals [72]:
+            xmin = 450.9348641329033 
+            xmax = 451.35523747733333 
+            text = "ovrlp" 
+        intervals [73]:
+            xmin = 451.35523747733333 
+            xmax = 452.1411528603982 
+            text = "sing" 
+        intervals [74]:
+            xmin = 452.1411528603982 
+            xmax = 457.27776255616453 
+            text = "ovrlp" 
+        intervals [75]:
+            xmin = 457.27776255616453 
+            xmax = 460.07415915172106 
+            text = "sing" 
+        intervals [76]:
+            xmin = 460.07415915172106 
+            xmax = 460.73213482126374 
+            text = "ovrlp" 
+        intervals [77]:
+            xmin = 460.73213482126374 
+            xmax = 467.2465330180663 
+            text = "sing" 
+        intervals [78]:
+            xmin = 467.2465330180663 
+            xmax = 467.42930403738376 
+            text = "ovrlp" 
+        intervals [79]:
+            xmin = 467.42930403738376 
+            xmax = 490.74486004432936 
+            text = "sing" 
+        intervals [80]:
+            xmin = 490.74486004432936 
+            xmax = 494.47338883840473 
+            text = "ovrlp" 
+        intervals [81]:
+            xmin = 494.47338883840473 
+            xmax = 494.94859348863 
+            text = "sing" 
+        intervals [82]:
+            xmin = 494.94859348863 
+            xmax = 497.9159815500329 
+            text = "ovrlp" 
+        intervals [83]:
+            xmin = 497.9159815500329 
+            xmax = 498.7201740350296 
+            text = "sing" 
+        intervals [84]:
+            xmin = 498.7201740350296 
+            xmax = 502.55836544069535 
+            text = "ovrlp" 
+        intervals [85]:
+            xmin = 502.55836544069535 
+            xmax = 507.4518550610868 
+            text = "sing" 
+        intervals [86]:
+            xmin = 507.4518550610868 
+            xmax = 511.2352151609574 
+            text = "ovrlp" 
+        intervals [87]:
+            xmin = 511.2352151609574 
+            xmax = 528.5130657272193 
+            text = "sing" 
+        intervals [88]:
+            xmin = 528.5130657272193 
+            xmax = 539.312563992847 
+            text = "ovrlp" 
+        intervals [89]:
+            xmin = 539.312563992847 
+            xmax = 541.1219970840895 
+            text = "sing" 
+        intervals [90]:
+            xmin = 541.1219970840895 
+            xmax = 541.7959808795322 
+            text = "ovrlp" 
+        intervals [91]:
+            xmin = 541.7959808795322 
+            xmax = 545.8169433045155 
+            text = "sing" 
+        intervals [92]:
+            xmin = 545.8169433045155 
+            xmax = 546.767352604966 
+            text = "ovrlp" 
+        intervals [93]:
+            xmin = 546.767352604966 
+            xmax = 547.2060030513278 
+            text = "sing" 
+        intervals [94]:
+            xmin = 547.2060030513278 
+            xmax = 553.6693270242605 
+            text = "ovrlp" 
+        intervals [95]:
+            xmin = 553.6693270242605 
+            xmax = 554.8207844459603 
+            text = "sing" 
+        intervals [96]:
+            xmin = 554.8207844459603 
+            xmax = 563.7582872905821 
+            text = "ovrlp" 
+        intervals [97]:
+            xmin = 563.7582872905821 
+            xmax = 569.8044866933151 
+            text = "sing" 
+        intervals [98]:
+            xmin = 569.8044866933151 
+            xmax = 579.71717348878 
+            text = "ovrlp" 
+        intervals [99]:
+            xmin = 579.71717348878 
+            xmax = 580.1741010370735 
+            text = "sing" 
+        intervals [100]:
+            xmin = 580.1741010370735 
+            xmax = 585.5658461069373 
+            text = "ovrlp" 
+        intervals [101]:
+            xmin = 585.5658461069373 
+            xmax = 599.3840792202809 
+            text = "sing" 
+        intervals [102]:
+            xmin = 599.3840792202809 
+            xmax = 600 
+            text = "ovrlp" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 100 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4463810526315789 
+            text = "sing" 
+        intervals [2]:
+            xmin = 0.4463810526315789 
+            xmax = 1.8913073684210528 
+            text = "cmp-d" 
+        intervals [3]:
+            xmin = 1.8913073684210528 
+            xmax = 35.86540773270211 
+            text = "sing" 
+        intervals [4]:
+            xmin = 35.86540773270211 
+            xmax = 40.532838836200426 
+            text = "misc" 
+        intervals [5]:
+            xmin = 40.532838836200426 
+            xmax = 53.7862056408053 
+            text = "sing" 
+        intervals [6]:
+            xmin = 53.7862056408053 
+            xmax = 54.04208506784969 
+            text = "coop" 
+        intervals [7]:
+            xmin = 54.04208506784969 
+            xmax = 64.76522615152014 
+            text = "sing" 
+        intervals [8]:
+            xmin = 64.76522615152014 
+            xmax = 66.06290038867382 
+            text = "misc" 
+        intervals [9]:
+            xmin = 66.06290038867382 
+            xmax = 76.31659031763282 
+            text = "sing" 
+        intervals [10]:
+            xmin = 76.31659031763282 
+            xmax = 76.5724697446772 
+            text = "misc" 
+        intervals [11]:
+            xmin = 76.5724697446772 
+            xmax = 108.70232576284637 
+            text = "sing" 
+        intervals [12]:
+            xmin = 108.70232576284637 
+            xmax = 113.6554203863485 
+            text = "cmp" 
+        intervals [13]:
+            xmin = 113.6554203863485 
+            xmax = 114.35394308693171 
+            text = "sing" 
+        intervals [14]:
+            xmin = 114.35394308693171 
+            xmax = 115.06675006226966 
+            text = "cmp" 
+        intervals [15]:
+            xmin = 115.06675006226966 
+            xmax = 117.88142375975795 
+            text = "sing" 
+        intervals [16]:
+            xmin = 117.88142375975795 
+            xmax = 118.39318261384673 
+            text = "cmp-d" 
+        intervals [17]:
+            xmin = 118.39318261384673 
+            xmax = 135.25441691760386 
+            text = "sing" 
+        intervals [18]:
+            xmin = 135.25441691760386 
+            xmax = 135.72962156782916 
+            text = "coop" 
+        intervals [19]:
+            xmin = 135.72962156782916 
+            xmax = 150.81421990228193 
+            text = "sing" 
+        intervals [20]:
+            xmin = 150.81421990228193 
+            xmax = 152.34949646454828 
+            text = "misc" 
+        intervals [21]:
+            xmin = 152.34949646454828 
+            xmax = 184.6623592472865 
+            text = "sing" 
+        intervals [22]:
+            xmin = 184.6623592472865 
+            xmax = 186.6911175617099 
+            text = "cmp" 
+        intervals [23]:
+            xmin = 186.6911175617099 
+            xmax = 187.78774367761443 
+            text = "sing" 
+        intervals [24]:
+            xmin = 187.78774367761443 
+            xmax = 190.0358272152187 
+            text = "cmp" 
+        intervals [25]:
+            xmin = 190.0358272152187 
+            xmax = 220.74883580720447 
+            text = "sing" 
+        intervals [26]:
+            xmin = 220.74883580720447 
+            xmax = 222.84592883203933 
+            text = "cmp" 
+        intervals [27]:
+            xmin = 222.84592883203933 
+            xmax = 251.53820158114746 
+            text = "sing" 
+        intervals [28]:
+            xmin = 251.53820158114746 
+            xmax = 253.61302467687358 
+            text = "cmp" 
+        intervals [29]:
+            xmin = 253.61302467687358 
+            xmax = 261.7080201642985 
+            text = "sing" 
+        intervals [30]:
+            xmin = 261.7080201642985 
+            xmax = 262.3659958338412 
+            text = "coop-d" 
+        intervals [31]:
+            xmin = 262.3659958338412 
+            xmax = 263.5905616632679 
+            text = "sing" 
+        intervals [32]:
+            xmin = 263.5905616632679 
+            xmax = 264.24853733281066 
+            text = "coop" 
+        intervals [33]:
+            xmin = 264.24853733281066 
+            xmax = 266.38144050856226 
+            text = "sing" 
+        intervals [34]:
+            xmin = 266.38144050856226 
+            xmax = 267.6798587986628 
+            text = "cmp" 
+        intervals [35]:
+            xmin = 267.6798587986628 
+            xmax = 277.579277934763 
+            text = "sing" 
+        intervals [36]:
+            xmin = 277.579277934763 
+            xmax = 278.0910367888518 
+            text = "cmp" 
+        intervals [37]:
+            xmin = 278.0910367888518 
+            xmax = 278.5296872352136 
+            text = "sing" 
+        intervals [38]:
+            xmin = 278.5296872352136 
+            xmax = 279.26077131248326 
+            text = "cmp" 
+        intervals [39]:
+            xmin = 279.26077131248326 
+            xmax = 279.7542530646403 
+            text = "sing" 
+        intervals [40]:
+            xmin = 279.7542530646403 
+            xmax = 280.3939516322513 
+            text = "cmp" 
+        intervals [41]:
+            xmin = 280.3939516322513 
+            xmax = 280.97881889406705 
+            text = "sing" 
+        intervals [42]:
+            xmin = 280.97881889406705 
+            xmax = 281.5271319520193 
+            text = "cmp" 
+        intervals [43]:
+            xmin = 281.5271319520193 
+            xmax = 282.31253902738916 
+            text = "sing" 
+        intervals [44]:
+            xmin = 282.31253902738916 
+            xmax = 284.14024922056336 
+            text = "cmp" 
+        intervals [45]:
+            xmin = 284.14024922056336 
+            xmax = 285.0723814190822 
+            text = "sing" 
+        intervals [46]:
+            xmin = 285.0723814190822 
+            xmax = 285.7120799866932 
+            text = "cmp" 
+        intervals [47]:
+            xmin = 285.7120799866932 
+            xmax = 288.17948874747833 
+            text = "sing" 
+        intervals [48]:
+            xmin = 288.17948874747833 
+            xmax = 289.05678964020194 
+            text = "cmp" 
+        intervals [49]:
+            xmin = 289.05678964020194 
+            xmax = 289.69648820781293 
+            text = "sing" 
+        intervals [50]:
+            xmin = 289.69648820781293 
+            xmax = 291.1481291695229 
+            text = "cmp" 
+        intervals [51]:
+            xmin = 291.1481291695229 
+            xmax = 293.4510440129224 
+            text = "sing" 
+        intervals [52]:
+            xmin = 293.4510440129224 
+            xmax = 296.10122379302504 
+            text = "cmp" 
+        intervals [53]:
+            xmin = 296.10122379302504 
+            xmax = 297.28923541858825 
+            text = "sing" 
+        intervals [54]:
+            xmin = 297.28923541858825 
+            xmax = 301.4231092293923 
+            text = "cmp" 
+        intervals [55]:
+            xmin = 301.4231092293923 
+            xmax = 301.84348257382237 
+            text = "sing" 
+        intervals [56]:
+            xmin = 301.84348257382237 
+            xmax = 305.0244423628922 
+            text = "cmp" 
+        intervals [57]:
+            xmin = 305.0244423628922 
+            xmax = 305.7738035420937 
+            text = "sing" 
+        intervals [58]:
+            xmin = 305.7738035420937 
+            xmax = 306.9252609637934 
+            text = "cmp" 
+        intervals [59]:
+            xmin = 306.9252609637934 
+            xmax = 358.8471851432591 
+            text = "sing" 
+        intervals [60]:
+            xmin = 358.8471851432591 
+            xmax = 363.40969051529066 
+            text = "cmp" 
+        intervals [61]:
+            xmin = 363.40969051529066 
+            xmax = 364.06766618483334 
+            text = "sing" 
+        intervals [62]:
+            xmin = 364.06766618483334 
+            xmax = 368.3810622407245 
+            text = "cmp" 
+        intervals [63]:
+            xmin = 368.3810622407245 
+            xmax = 370.99167478798506 
+            text = "sing" 
+        intervals [64]:
+            xmin = 370.99167478798506 
+            xmax = 374.81158909171916 
+            text = "cmp" 
+        intervals [65]:
+            xmin = 374.81158909171916 
+            xmax = 378.02835903170575 
+            text = "sing" 
+        intervals [66]:
+            xmin = 378.02835903170575 
+            xmax = 381.2724083433683 
+            text = "cmp" 
+        intervals [67]:
+            xmin = 381.2724083433683 
+            xmax = 382.00349242063794 
+            text = "sing" 
+        intervals [68]:
+            xmin = 382.00349242063794 
+            xmax = 382.3142031534776 
+            text = "cmp" 
+        intervals [69]:
+            xmin = 382.3142031534776 
+            xmax = 384.9461058316484 
+            text = "sing" 
+        intervals [70]:
+            xmin = 384.9461058316484 
+            xmax = 388.9853453585634 
+            text = "cmp" 
+        intervals [71]:
+            xmin = 388.9853453585634 
+            xmax = 450.9348641329033 
+            text = "sing" 
+        intervals [72]:
+            xmin = 450.9348641329033 
+            xmax = 451.35523747733333 
+            text = "coop" 
+        intervals [73]:
+            xmin = 451.35523747733333 
+            xmax = 452.1411528603982 
+            text = "sing" 
+        intervals [74]:
+            xmin = 452.1411528603982 
+            xmax = 457.27776255616453 
+            text = "cmp" 
+        intervals [75]:
+            xmin = 457.27776255616453 
+            xmax = 460.07415915172106 
+            text = "sing" 
+        intervals [76]:
+            xmin = 460.07415915172106 
+            xmax = 460.73213482126374 
+            text = "coop" 
+        intervals [77]:
+            xmin = 460.73213482126374 
+            xmax = 490.74486004432936 
+            text = "sing" 
+        intervals [78]:
+            xmin = 490.74486004432936 
+            xmax = 494.47338883840473 
+            text = "cmp" 
+        intervals [79]:
+            xmin = 494.47338883840473 
+            xmax = 494.94859348863 
+            text = "sing" 
+        intervals [80]:
+            xmin = 494.94859348863 
+            xmax = 497.9159815500329 
+            text = "cmp" 
+        intervals [81]:
+            xmin = 497.9159815500329 
+            xmax = 498.7201740350296 
+            text = "sing" 
+        intervals [82]:
+            xmin = 498.7201740350296 
+            xmax = 502.55836544069535 
+            text = "cmp" 
+        intervals [83]:
+            xmin = 502.55836544069535 
+            xmax = 507.4518550610868 
+            text = "sing" 
+        intervals [84]:
+            xmin = 507.4518550610868 
+            xmax = 511.2352151609574 
+            text = "cmp" 
+        intervals [85]:
+            xmin = 511.2352151609574 
+            xmax = 528.5130657272193 
+            text = "sing" 
+        intervals [86]:
+            xmin = 528.5130657272193 
+            xmax = 539.312563992847 
+            text = "cmp" 
+        intervals [87]:
+            xmin = 539.312563992847 
+            xmax = 541.1219970840895 
+            text = "sing" 
+        intervals [88]:
+            xmin = 541.1219970840895 
+            xmax = 541.7959808795322 
+            text = "cmp" 
+        intervals [89]:
+            xmin = 541.7959808795322 
+            xmax = 545.8169433045155 
+            text = "sing" 
+        intervals [90]:
+            xmin = 545.8169433045155 
+            xmax = 546.767352604966 
+            text = "cmp" 
+        intervals [91]:
+            xmin = 546.767352604966 
+            xmax = 547.2060030513278 
+            text = "sing" 
+        intervals [92]:
+            xmin = 547.2060030513278 
+            xmax = 553.6693270242605 
+            text = "cmp" 
+        intervals [93]:
+            xmin = 553.6693270242605 
+            xmax = 554.8207844459603 
+            text = "sing" 
+        intervals [94]:
+            xmin = 554.8207844459603 
+            xmax = 563.7582872905821 
+            text = "cmp" 
+        intervals [95]:
+            xmin = 563.7582872905821 
+            xmax = 569.8044866933151 
+            text = "sing" 
+        intervals [96]:
+            xmin = 569.8044866933151 
+            xmax = 579.71717348878 
+            text = "cmp" 
+        intervals [97]:
+            xmin = 579.71717348878 
+            xmax = 580.1741010370735 
+            text = "sing" 
+        intervals [98]:
+            xmin = 580.1741010370735 
+            xmax = 585.5658461069373 
+            text = "cmp" 
+        intervals [99]:
+            xmin = 585.5658461069373 
+            xmax = 599.3840792202809 
+            text = "sing" 
+        intervals [100]:
+            xmin = 599.3840792202809 
+            xmax = 600 
+            text = "coop-d" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 65 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.8913073684210528 
+            text = "cmp" 
+        intervals [2]:
+            xmin = 1.8913073684210528 
+            xmax = 35.86540773270211 
+            text = "sing" 
+        intervals [3]:
+            xmin = 35.86540773270211 
+            xmax = 40.532838836200426 
+            text = "misc" 
+        intervals [4]:
+            xmin = 40.532838836200426 
+            xmax = 53.7862056408053 
+            text = "sing" 
+        intervals [5]:
+            xmin = 53.7862056408053 
+            xmax = 54.04208506784969 
+            text = "coop" 
+        intervals [6]:
+            xmin = 54.04208506784969 
+            xmax = 64.76522615152014 
+            text = "sing" 
+        intervals [7]:
+            xmin = 64.76522615152014 
+            xmax = 66.06290038867382 
+            text = "misc" 
+        intervals [8]:
+            xmin = 66.06290038867382 
+            xmax = 76.31659031763282 
+            text = "sing" 
+        intervals [9]:
+            xmin = 76.31659031763282 
+            xmax = 76.5724697446772 
+            text = "misc" 
+        intervals [10]:
+            xmin = 76.5724697446772 
+            xmax = 108.70232576284637 
+            text = "sing" 
+        intervals [11]:
+            xmin = 108.70232576284637 
+            xmax = 115.06675006226966 
+            text = "cmp" 
+        intervals [12]:
+            xmin = 115.06675006226966 
+            xmax = 117.88142375975795 
+            text = "sing" 
+        intervals [13]:
+            xmin = 117.88142375975795 
+            xmax = 118.39318261384673 
+            text = "coop" 
+        intervals [14]:
+            xmin = 118.39318261384673 
+            xmax = 135.25441691760386 
+            text = "sing" 
+        intervals [15]:
+            xmin = 135.25441691760386 
+            xmax = 135.72962156782916 
+            text = "coop" 
+        intervals [16]:
+            xmin = 135.72962156782916 
+            xmax = 150.81421990228193 
+            text = "sing" 
+        intervals [17]:
+            xmin = 150.81421990228193 
+            xmax = 152.34949646454828 
+            text = "misc" 
+        intervals [18]:
+            xmin = 152.34949646454828 
+            xmax = 184.6623592472865 
+            text = "sing" 
+        intervals [19]:
+            xmin = 184.6623592472865 
+            xmax = 190.0358272152187 
+            text = "cmp" 
+        intervals [20]:
+            xmin = 190.0358272152187 
+            xmax = 220.74883580720447 
+            text = "sing" 
+        intervals [21]:
+            xmin = 220.74883580720447 
+            xmax = 222.84592883203933 
+            text = "cmp" 
+        intervals [22]:
+            xmin = 222.84592883203933 
+            xmax = 251.53820158114746 
+            text = "sing" 
+        intervals [23]:
+            xmin = 251.53820158114746 
+            xmax = 253.61302467687358 
+            text = "cmp" 
+        intervals [24]:
+            xmin = 253.61302467687358 
+            xmax = 261.7080201642985 
+            text = "sing" 
+        intervals [25]:
+            xmin = 261.7080201642985 
+            xmax = 262.3659958338412 
+            text = "coop" 
+        intervals [26]:
+            xmin = 262.3659958338412 
+            xmax = 263.5905616632679 
+            text = "sing" 
+        intervals [27]:
+            xmin = 263.5905616632679 
+            xmax = 264.24853733281066 
+            text = "coop" 
+        intervals [28]:
+            xmin = 264.24853733281066 
+            xmax = 266.38144050856226 
+            text = "sing" 
+        intervals [29]:
+            xmin = 266.38144050856226 
+            xmax = 267.6798587986628 
+            text = "cmp" 
+        intervals [30]:
+            xmin = 267.6798587986628 
+            xmax = 277.579277934763 
+            text = "sing" 
+        intervals [31]:
+            xmin = 277.579277934763 
+            xmax = 285.7120799866932 
+            text = "cmp" 
+        intervals [32]:
+            xmin = 285.7120799866932 
+            xmax = 288.17948874747833 
+            text = "sing" 
+        intervals [33]:
+            xmin = 288.17948874747833 
+            xmax = 291.1481291695229 
+            text = "cmp" 
+        intervals [34]:
+            xmin = 291.1481291695229 
+            xmax = 293.4510440129224 
+            text = "sing" 
+        intervals [35]:
+            xmin = 293.4510440129224 
+            xmax = 296.10122379302504 
+            text = "cmp" 
+        intervals [36]:
+            xmin = 296.10122379302504 
+            xmax = 297.28923541858825 
+            text = "sing" 
+        intervals [37]:
+            xmin = 297.28923541858825 
+            xmax = 306.9252609637934 
+            text = "cmp" 
+        intervals [38]:
+            xmin = 306.9252609637934 
+            xmax = 358.8471851432591 
+            text = "sing" 
+        intervals [39]:
+            xmin = 358.8471851432591 
+            xmax = 368.3810622407245 
+            text = "cmp" 
+        intervals [40]:
+            xmin = 368.3810622407245 
+            xmax = 370.99167478798506 
+            text = "sing" 
+        intervals [41]:
+            xmin = 370.99167478798506 
+            xmax = 374.81158909171916 
+            text = "cmp" 
+        intervals [42]:
+            xmin = 374.81158909171916 
+            xmax = 378.02835903170575 
+            text = "sing" 
+        intervals [43]:
+            xmin = 378.02835903170575 
+            xmax = 382.3142031534776 
+            text = "cmp" 
+        intervals [44]:
+            xmin = 382.3142031534776 
+            xmax = 384.9461058316484 
+            text = "sing" 
+        intervals [45]:
+            xmin = 384.9461058316484 
+            xmax = 388.9853453585634 
+            text = "cmp" 
+        intervals [46]:
+            xmin = 388.9853453585634 
+            xmax = 450.9348641329033 
+            text = "sing" 
+        intervals [47]:
+            xmin = 450.9348641329033 
+            xmax = 451.35523747733333 
+            text = "coop" 
+        intervals [48]:
+            xmin = 451.35523747733333 
+            xmax = 452.1411528603982 
+            text = "sing" 
+        intervals [49]:
+            xmin = 452.1411528603982 
+            xmax = 457.27776255616453 
+            text = "cmp" 
+        intervals [50]:
+            xmin = 457.27776255616453 
+            xmax = 460.07415915172106 
+            text = "sing" 
+        intervals [51]:
+            xmin = 460.07415915172106 
+            xmax = 460.73213482126374 
+            text = "coop" 
+        intervals [52]:
+            xmin = 460.73213482126374 
+            xmax = 490.74486004432936 
+            text = "sing" 
+        intervals [53]:
+            xmin = 490.74486004432936 
+            xmax = 502.55836544069535 
+            text = "cmp" 
+        intervals [54]:
+            xmin = 502.55836544069535 
+            xmax = 507.4518550610868 
+            text = "sing" 
+        intervals [55]:
+            xmin = 507.4518550610868 
+            xmax = 511.2352151609574 
+            text = "cmp" 
+        intervals [56]:
+            xmin = 511.2352151609574 
+            xmax = 528.5130657272193 
+            text = "sing" 
+        intervals [57]:
+            xmin = 528.5130657272193 
+            xmax = 539.312563992847 
+            text = "cmp" 
+        intervals [58]:
+            xmin = 539.312563992847 
+            xmax = 541.1219970840895 
+            text = "sing" 
+        intervals [59]:
+            xmin = 541.1219970840895 
+            xmax = 541.7959808795322 
+            text = "cmp" 
+        intervals [60]:
+            xmin = 541.7959808795322 
+            xmax = 545.8169433045155 
+            text = "sing" 
+        intervals [61]:
+            xmin = 545.8169433045155 
+            xmax = 563.7582872905821 
+            text = "cmp" 
+        intervals [62]:
+            xmin = 563.7582872905821 
+            xmax = 569.8044866933151 
+            text = "sing" 
+        intervals [63]:
+            xmin = 569.8044866933151 
+            xmax = 585.5658461069373 
+            text = "cmp" 
+        intervals [64]:
+            xmin = 585.5658461069373 
+            xmax = 599.3840792202809 
+            text = "sing" 
+        intervals [65]:
+            xmin = 599.3840792202809 
+            xmax = 600 
+            text = "coop-d" 

@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 600 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 377.12514979978863 
+            text = "misc" 
+        intervals [2]:
+            xmin = 377.12514979978863 
+            xmax = 378.78893391155816 
+            text = "nor" 
+        intervals [3]:
+            xmin = 378.78893391155816 
+            xmax = 406.55285227200613 
+            text = "misc" 
+        intervals [4]:
+            xmin = 406.55285227200613 
+            xmax = 424.1902556361373 
+            text = "nor" 
+        intervals [5]:
+            xmin = 424.1902556361373 
+            xmax = 503.8662681064432 
+            text = "misc" 
+        intervals [6]:
+            xmin = 503.8662681064432 
+            xmax = 538.9147331399689 
+            text = "nor" 
+        intervals [7]:
+            xmin = 538.9147331399689 
+            xmax = 600 
+            text = "misc" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 377.12514979978863 
+            text = "misc" 
+        intervals [2]:
+            xmin = 377.12514979978863 
+            xmax = 378.78893391155816 
+            text = "sing" 
+        intervals [3]:
+            xmin = 378.78893391155816 
+            xmax = 406.55285227200613 
+            text = "misc" 
+        intervals [4]:
+            xmin = 406.55285227200613 
+            xmax = 424.1902556361373 
+            text = "sing" 
+        intervals [5]:
+            xmin = 424.1902556361373 
+            xmax = 503.8662681064432 
+            text = "misc" 
+        intervals [6]:
+            xmin = 503.8662681064432 
+            xmax = 538.9147331399689 
+            text = "sing" 
+        intervals [7]:
+            xmin = 538.9147331399689 
+            xmax = 600 
+            text = "misc" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 377.12514979978863 
+            text = "misc" 
+        intervals [2]:
+            xmin = 377.12514979978863 
+            xmax = 378.78893391155816 
+            text = "sing" 
+        intervals [3]:
+            xmin = 378.78893391155816 
+            xmax = 406.55285227200613 
+            text = "misc" 
+        intervals [4]:
+            xmin = 406.55285227200613 
+            xmax = 424.1902556361373 
+            text = "sing" 
+        intervals [5]:
+            xmin = 424.1902556361373 
+            xmax = 503.8662681064432 
+            text = "misc" 
+        intervals [6]:
+            xmin = 503.8662681064432 
+            xmax = 538.9147331399689 
+            text = "sing" 
+        intervals [7]:
+            xmin = 538.9147331399689 
+            xmax = 600 
+            text = "misc" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "TextGrid" 
+        xmin = 0 
+        xmax = 600 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 377.12514979978863 
+            text = "misc" 
+        intervals [2]:
+            xmin = 377.12514979978863 
+            xmax = 378.78893391155816 
+            text = "sing" 
+        intervals [3]:
+            xmin = 378.78893391155816 
+            xmax = 406.55285227200613 
+            text = "misc" 
+        intervals [4]:
+            xmin = 406.55285227200613 
+            xmax = 424.1902556361373 
+            text = "sing" 
+        intervals [5]:
+            xmin = 424.1902556361373 
+            xmax = 503.8662681064432 
+            text = "misc" 
+        intervals [6]:
+            xmin = 503.8662681064432 
+            xmax = 538.9147331399689 
+            text = "sing" 
+        intervals [7]:
+            xmin = 538.9147331399689 
+            xmax = 600 
+            text = "misc" 
